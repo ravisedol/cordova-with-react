@@ -13,4 +13,4 @@ Download Repository
 -> cordova platform add android/ios/browser
 
 #step5: Build app 
--> cordova build android
+-> cordova run android
