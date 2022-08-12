@@ -4,13 +4,13 @@
 Download Repository 
 
 #Step2: Install all dependancies
-npm install
+ -> npm install
 
-#Step3: Test React is working
-npm start
+#Step3: Test React is working 
+-> npm start
 
-#Step4: Add platform to build
-cordova platform add android/ios/browser
+#Step4: Add platform to build 
+-> cordova platform add android/ios/browser
 
 #step5: Build app 
-cordova build android
+-> cordova build android
